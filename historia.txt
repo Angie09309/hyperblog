@@ -1,6 +1,4 @@
-hola mi nombre es Angie
+Mi nombre esAngie mi edad es 20 años 
+vivo en bogota y naci en colombia, tengo una mascota un perro que se llama Lucas.
 
-Tengo 20 años y naci en colombia, y vivo en bogota
-
-Tengo un perro de mascota que se llama Lucas
-
+comence a estudi ar programacion a hace poco
